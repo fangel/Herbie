@@ -5,6 +5,8 @@
 > A JavaScript CRDT library compatible with [Aphyrs](http://http://aphyr.com)
 > [Mean Girls](https://github.com/aphyr/meangirls)
 
+[![Build Status](https://api.travis-ci.org/fangel/Herbie.svg?branch=master)](https://travis-ci.org/fangel/Herbie)
+
 ## Introduction
 
 CRDT -- Conflict-free Replicated Data Types -- are a special class of data types
