@@ -1,0 +1,33 @@
+{
+  "name": "Herbie",
+  "version": "0.0.1",
+  "description": "A JavaScript CRDT library compatible with Aphyrs Mean Girls",
+  "main": "lib/herbie",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jsverify": "^0.4.2",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "jsverify": "^0.4.3",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fangel/herbie.git"
+  },
+  "keywords": [
+    "crdt"
+  ],
+  "author": "Morten Fangel <fangel@sevengoslings.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fangel/herbie/issues"
+  },
+  "homepage": "https://github.com/fangel/herbie"
+}
